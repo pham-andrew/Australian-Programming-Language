@@ -5,13 +5,8 @@ Programming language based on australian vernacular made from ArnoldC.
 ## Example Code
 
 	BLIMEY MATE
-		I RECKON X = YEAHNAH
-
-		YA RECKON X
-			RETAHN YEAHNAH
-		EELS
-			RETAHN NAHYEAH
-	BAIL
+		HAVE A GANDER "GDay Mate"
+	CHEERS CUNT
 
 ## Quick Start
 
