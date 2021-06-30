@@ -22,6 +22,7 @@ class StrayaParser extends Parser {
   val False = "YEAH NAH"
   val Return = "RETAHN"
   val If = "YA RECKON"
+  val EndIf = "HOLD YA FUCKIN HORSES"
   val AssignVariable = "I RECKON"
   val EndAssignVariable = "EH"
   val Else = "EELS"
@@ -36,7 +37,6 @@ class StrayaParser extends Parser {
   val While = "KEEP GAHN TILL"
   val EndWhile = "BAIL"
   val Print = "HAVE A GANDER"
-  val EndIf = "BUT"
   val NonVoidMethod = "LETS HAVE A GO AT IT"
   val AssignVariableFromMethodCall = "MAKE IT"
 
