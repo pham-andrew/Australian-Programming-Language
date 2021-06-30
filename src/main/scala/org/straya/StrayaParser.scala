@@ -33,7 +33,7 @@ class StrayaParser extends Parser {
   val SetInitialValue = "OI"
   val Read = "TELL EM"
   val MethodArguments = "ARGS"
-  val While = "EEP GAHN TILL"
+  val While = "KEEP GAHN TILL"
   val EndWhile = "BAIL"
   val Print = "HAVE A GANDER"
   val EndIf = "BUT"
