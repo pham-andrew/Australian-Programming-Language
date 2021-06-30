@@ -1,6 +1,6 @@
 # C***
 
-Programming language based on australian vernacular made from Straya.
+Programming language based on Australian vernacular made from ArnoldC.
 
 ## Example Code
 
